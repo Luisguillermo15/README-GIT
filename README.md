@@ -12,6 +12,19 @@ Git, es un software de control de versiones diseñado por Linus Torvalds. La pre
 ## Por qué se creó git?
 Git fue creado pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente, es decir Git nos proporciona las herramientas para desarrollar un trabajo en equipo de manera inteligente y rápida y por trabajo nos referimos a algún software o página que implique código el cual necesitemos hacerlo con un grupo de personas.
 
+## Ordenes basicas 
+
+- ### **git init**
+  Añadir un archivo especifico.
+
+- ### **git add “nombre_de_archivo”**
+  Añadir todos los archivos del directorio
+
+- ### **git add .**
+  Confirmar los cambios realizados. El “mensaje” generalmente se usa para asociar al commit una breve descripción de los cambios realizados.
+
+- ### **git commit –am “mensaje”**
+  Revertir el commit identificado por "hash_commit"
 
 
 
